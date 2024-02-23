@@ -1,0 +1,12 @@
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\bin\Debug\net7.0\Calculadora.Core.deps.json
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\bin\Debug\net7.0\Calculadora.Core.dll
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\bin\Debug\net7.0\Calculadora.Core.pdb
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.csproj.AssemblyReference.cache
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.AssemblyInfoInputs.cache
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.AssemblyInfo.cs
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.csproj.CoreCompileInputs.cache
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.dll
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\refint\Calculadora.Core.dll
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\Calculadora.Core.pdb
+D:\faculdade\2024_1\esof\preparacao\Calculadora\CalculadoraApp\Calculadora.Core\obj\Debug\net7.0\ref\Calculadora.Core.dll
