@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj": {}
+    "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\git\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj": {}
   },
   "projects": {
-    "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj": {
+    "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\git\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj",
+        "projectUniqueName": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\git\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj",
         "projectName": "Calculadora.Core",
-        "projectPath": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj",
+        "projectPath": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\git\\CalculadoraApp\\Calculadora.Core\\Calculadora.Core.csproj",
         "packagesPath": "C:\\Users\\betom\\.nuget\\packages\\",
-        "outputPath": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\CalculadoraApp\\Calculadora.Core\\obj\\",
+        "outputPath": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\git\\CalculadoraApp\\Calculadora.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbrCx4YI4rylqjMhr4QJRhXApfTi/4iIoWVjN8s3XbjorpQ8WdSH7o4wL+MgxRgUc3VqLndMossutsRb0+lOOw==",
+  "dgSpecHash": "3zLbSwH6PnJQSsG0GWVDr3+iDCpIc6zEBBcUeeV4wJjg8YpSceIGKsBF9jmJEjj5JZY1c4DA3Ze/5t4/wL1xWA==",
   "success": true,
-  "projectFilePath": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\CalculadoraApp\\Calculadora.Tests\\Calculadora.Tests.csproj",
+  "projectFilePath": "D:\\faculdade\\2024_1\\esof\\preparacao\\Calculadora\\git\\CalculadoraApp\\Calculadora.Tests\\Calculadora.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\betom\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\betom\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
